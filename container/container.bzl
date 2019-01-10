@@ -48,7 +48,7 @@ container = struct(
 )
 
 # The release of the github.com/google/containerregistry to consume.
-CONTAINERREGISTRY_RELEASE = "v0.0.34"
+CONTAINERREGISTRY_RELEASE = "v0.0.35"
 
 _local_tool_build_template = """
 sh_binary(
